@@ -1,10 +1,12 @@
-def unsafe?(speed)
+def if speed = <40 or >60 
+  puts true else 
+  puts unsafe? 
 
 end
 
-
-
-def not_safe?(speed)
+def speed = 
+  
+  puts not_safe?
 	
 end
 	
