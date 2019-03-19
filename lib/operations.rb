@@ -4,9 +4,10 @@ def if speed = <40 or >60
 
 end
 
-def speed = 
+def speed
   
-  puts not_safe?
+  
+  puts  not_safe?
 	
 end
 	
