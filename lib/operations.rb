@@ -4,10 +4,7 @@ def if speed = <40 or >60
 
 end
 
-def speed
-  
-  
-  puts  not_safe?
+def speed ? = <40 or > 60 :not_safe?
 	
 end
 	
